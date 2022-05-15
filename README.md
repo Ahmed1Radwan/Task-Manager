@@ -1,1 +1,6 @@
-# Task Manager is a simple Back-Ebd Server Created Using Express framework, Nodejs and MongoDB
+# Task Manager: is a simple Back-Ebd Server
+> Tools Used 
+- framework
+- Nodejs
+- MongoDB
+
